@@ -78,3 +78,13 @@ textarea {
   display: flex;
   justify-content: center;
 }
+textarea{
+  text-decoration: none;
+  border: none
+  
+}
+.past{
+  background-color: #ff6961;
+}
+.present{background-color: #77dd77;}
+.future{background-color: #06aed5;}
